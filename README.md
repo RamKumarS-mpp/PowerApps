@@ -1,4 +1,4 @@
-# 📌 Cap UK - Performance Tracking System
+# 📌 Performance Tracking System
 
 ## 🔧 Overview
 This Power Platform-based solution was designed for **Cap UK analysts** to track their daily activities, monitor performance through key metrics, and support **1-2-1 performance evaluations** using Complexity Per Hour scores. It integrates **Power Apps**, **Power Automate**, and **SharePoint Online** to enable seamless data entry, filtering, and automated reminders.
@@ -12,7 +12,7 @@ This Power Platform-based solution was designed for **Cap UK analysts** to track
 - **Edit Functionality**: Users can update existing checklist records.
 
 ### 🔹 SharePoint Lists
-1. **Cap UK - Checklist**
+1. **Checklist**
    - Tracks analyst entries including WorkflowID, ComplexityScore, TimeTaken, and Date.
    - Used as the main data source for Power Apps and Power Automate.
 2. **AnalystMaster**
